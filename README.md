@@ -18,5 +18,5 @@
 
   ---
 
-### Blog Posts :
+### 
 <!-- BLOG-POST-LIST:END -->
