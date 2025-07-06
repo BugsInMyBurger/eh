@@ -1,6 +1,6 @@
 <!-- BLOG-POST-LIST:START -->
  <div id="header" align="center">
- <img src="https://komarev.com/ghpvc/?username=CanIHaveOneBurger&style=flat-square&color=dbc3a3">
+ <img src="https://komarev.com/ghpvc/?username=CanIHaveOneBurger&label=Moths&style=for-the-badge&color=dbc3a3">
 
 -------------------------------
 
@@ -14,5 +14,5 @@
 -------------------------------
     
   <div id="header" align="center">
-  <img src="https://media.tenor.com/ytX7qa98ev8AAAAm/dead-plate-deadplate.webp" width="30"/>
+  <img src="https://media.tenor.com/ytX7qa98ev8AAAAm/dead-plate-deadplate.webp" width="10"/>
 <!-- BLOG-POST-LIST:END -->
