@@ -1,18 +1,9 @@
-
+<img width="999"
+src="https://media.tenor.com/lK7y4-31P6kAAAAi/border-dollcore.gif">
  
- <p div id="header" align="center">
- <img src="https://komarev.com/ghpvc/?username=CanIHaveOneBurger&label=Moths&style=for-the-badge&color=dbc3a3">
+ <img width="999" height="350" alt="https://i.pinimg.com/originals/19/51/f1/1951f1e9895350cd772cc53091fd5bc0.png" src="https://i.pinimg.com/originals/19/51/f1/1951f1e9895350cd772cc53091fd5bc0.png" />
+<p align="center">
+I never was very good.. I haven’t been so good...
 
--------------------------------
-
-<p div id="header" align="center">
-  <img src="https://media.tenor.com/lK7y4-31P6kAAAAi/border-dollcore.gif" width="900"/>
-<p div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/19/51/f1/1951f1e9895350cd772cc53091fd5bc0.png" width="200"/>
-  <p div id="header" align="center">
-  <img src="https://media.tenor.com/gOf1lwclSVcAAAAi/divider.gif" width="900"/>
-
--------------------------------
-    
-  <p div id="header" align="center">
-  <img src="https://media.tenor.com/ytX7qa98ev8AAAAm/dead-plate-deadplate.webp" width="10"/>
+------------------------------
+⠀ ⠀  
