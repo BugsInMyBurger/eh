@@ -1,7 +1,5 @@
 <p alight="center">
- ill remake it soon
-  .
- sigh
+ okay no
 <p/>
   
 ![Profile views](https://count.getloli.com/get/@BugsInMyBurger?theme=food&color=purple&label=Profile%20views)
